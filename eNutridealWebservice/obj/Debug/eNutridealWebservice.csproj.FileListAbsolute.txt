@@ -1,0 +1,2 @@
+C:\Users\clauc\source\repos\jo-Ribeiro\eNutridealWebservice\eNutridealWebservice\obj\Debug\eNutridealWebservice.csprojAssemblyReference.cache
+C:\Users\clauc\source\repos\jo-Ribeiro\eNutridealWebservice\eNutridealWebservice\obj\Debug\eNutridealWebservice.csproj.CoreCompileInputs.cache
